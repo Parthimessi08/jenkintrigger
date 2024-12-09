@@ -3,7 +3,7 @@ agent any
 stages{
 stage('Build'){
 steps{
-sh 'echo "Build complete."'
+sh 'echo "Build complete check this."'
 }
 }
 }
